@@ -1,0 +1,11 @@
+C:\Users\Manu3l\source\repos\Loan\bin\Debug\netcoreapp2.1\Loan.deps.json
+C:\Users\Manu3l\source\repos\Loan\bin\Debug\netcoreapp2.1\Loan.runtimeconfig.json
+C:\Users\Manu3l\source\repos\Loan\bin\Debug\netcoreapp2.1\Loan.runtimeconfig.dev.json
+C:\Users\Manu3l\source\repos\Loan\bin\Debug\netcoreapp2.1\Loan.dll
+C:\Users\Manu3l\source\repos\Loan\bin\Debug\netcoreapp2.1\Loan.pdb
+C:\Users\Manu3l\source\repos\Loan\obj\Debug\netcoreapp2.1\Loan.csprojAssemblyReference.cache
+C:\Users\Manu3l\source\repos\Loan\obj\Debug\netcoreapp2.1\Loan.csproj.CoreCompileInputs.cache
+C:\Users\Manu3l\source\repos\Loan\obj\Debug\netcoreapp2.1\Loan.AssemblyInfoInputs.cache
+C:\Users\Manu3l\source\repos\Loan\obj\Debug\netcoreapp2.1\Loan.AssemblyInfo.cs
+C:\Users\Manu3l\source\repos\Loan\obj\Debug\netcoreapp2.1\Loan.dll
+C:\Users\Manu3l\source\repos\Loan\obj\Debug\netcoreapp2.1\Loan.pdb
